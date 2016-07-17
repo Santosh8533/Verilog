@@ -6,6 +6,7 @@ If you are just practicing verilog, use Icarus Verilog Simulator
 2)Run .exe and install it.
 
 //Command line execution of verilog (Icarus Verilog Simulator)
+//Copy the iverilog.exe into your desired folder and used that path to simulate your verilog files
 
 Method:1
 (....path):\iverilog -o (any_name) (filename.v)
