@@ -23,8 +23,8 @@ Method:2
 
 //Windows
 1)Use Backward Slash
-2)If you want to change drives from C: to D:, just type (cd \) followed by (D:)
+2)If you want to change drives from C: to D:, just type (cd \) and next hit (D:)
 
 //Linux
 1)Use forward slash
-2)If you want to change drives from C: to D:, just type (cd /) followed by (cd D:)
+2)If you want to change drives from C: to D:, just type (cd /) and next hit (cd D:)
