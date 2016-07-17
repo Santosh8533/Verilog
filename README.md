@@ -1,12 +1,12 @@
 # Verilog
-Verilog_examples_intro_to_advanced
+Welcome to Verilog_examples_intro_to_advanced
 
 If you are just practicing verilog, use Icarus Verilog Simulator
 1)Download URL: http://bleyer.org/icarus/
 2)Run .exe and install it.
 
 //Command line execution of verilog (Icarus Verilog Simulator)
-//Copy the iverilog.exe into your desired folder and used that path to simulate your verilog files
+//Don't forget to add path variable
 
 Method:1
 (....path):\iverilog -o (any_name) (filename.v)
