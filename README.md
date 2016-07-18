@@ -28,3 +28,5 @@ Method:2
 //Linux
 1)Use forward slash
 2)If you want to change drives from C: to D:, just type (cd /) and next hit (cd D:)
+
+http://www.asic.co.in/Index_files/verilog_interview_questions.htm
